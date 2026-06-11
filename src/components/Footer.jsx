@@ -99,8 +99,8 @@ const Footer = () => {
       </div>
 
       <div className="footer__bottom">
-        <span>© 2024 Marsforce Technologies Pvt. Ltd. All rights reserved.</span>
-        <span>Built with ❤️ for India's LPG distributors</span>
+        <span>© 2026 Marsforce Technologies Pvt. Ltd. All rights reserved.</span>
+        
       </div>
     </footer>
   );
